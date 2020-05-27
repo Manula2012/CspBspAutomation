@@ -3,6 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="218af0ea-d3dd-4437-b36f-9f826060f16f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestBspCsp/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestBspCsp/BrowserSelector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestBspCsp/LoadProp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestBspCsp/LogInBsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestBspCsp/LogInCsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestBspCsp/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Resources/BrowserDrivers/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Resources/BrowserDrivers/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Resources/TestData/testconfig.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestBspCsp/Hooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestBspCsp/RunTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +81,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590597428509">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1590597428509" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1590568076794">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -98,14 +113,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1590565167752" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1590568508278">
+    <state x="184" y="6" key="SettingsEditor" timestamp="1590599616080">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590568508278" />
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590599616080" />
     <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1590560751364">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590560751364" />
+    <state x="65" y="65" key="new project wizard" timestamp="1590568851437">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="65" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1590568851437" />
     <state x="435" y="285" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1590561233727">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
