@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="218af0ea-d3dd-4437-b36f-9f826060f16f" name="Default Changelist" comment="" />
+    <list default="true" id="218af0ea-d3dd-4437-b36f-9f826060f16f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resources/BrowserDrivers" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -68,6 +70,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1590568076794">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590568076794" />
+    <state x="536" y="257" key="Github.ShareDialog" timestamp="1590567988243">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="536" y="257" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1590567988243" />
     <state width="1323" height="7" key="GridCell.Tab.0.bottom" timestamp="1590534394896">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -88,10 +98,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1590565167752" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1590562630551">
+    <state x="184" y="6" key="SettingsEditor" timestamp="1590568508278">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590562630551" />
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590568508278" />
     <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1590560751364">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
